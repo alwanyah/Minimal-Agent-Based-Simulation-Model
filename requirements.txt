@@ -1,0 +1,5 @@
+stochsearch
+CTRNN
+ipykernel
+numpy
+matplotlib
