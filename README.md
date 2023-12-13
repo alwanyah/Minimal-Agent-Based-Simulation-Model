@@ -5,14 +5,16 @@
 
 -how to connect RNN output to webots
     -motor output 
-        [float, float] between 0.0 and 1.0 for left and right weel, just going forward
+        [float] between 0.0 and 1.0 for left and right weel, just going forward
     -sound output
         dont know
 
 -connect webot output to RNN
     -2 microphone inputs
-        dont now
+        [float] between 0.0 and 1.0 for left and right microphone, just intensity?
 
+
+-how to have 3 outputs from 2 neurons
 
 -define optimization function
     -neural activation?
