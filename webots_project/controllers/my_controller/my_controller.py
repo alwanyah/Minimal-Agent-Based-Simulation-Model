@@ -2,7 +2,10 @@
 
 # You may need to import some classes of the controller module. Ex:
 #  from controller import Robot, Motor, DistanceSensor
-from controller import Robot
+from webots.controller import Robot
+from webots.controller import Receiver
+from controller import Emitter
+
 
 def run_robot(robot):
     

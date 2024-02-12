@@ -3,3 +3,5 @@ CTRNN
 ipykernel
 numpy
 matplotlib
+webots
+opencv-python
