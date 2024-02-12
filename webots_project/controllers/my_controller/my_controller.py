@@ -4,7 +4,7 @@
 #  from controller import Robot, Motor, DistanceSensor
 from webots.controller import Robot
 from webots.controller import Receiver
-from controller import Emitter
+from webots.controller import Emitter
 
 
 def run_robot(robot):
